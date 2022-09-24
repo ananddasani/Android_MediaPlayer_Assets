@@ -1,6 +1,8 @@
 # Android_MediaPlayer_Assets
 Playing Music From Assets with seek bar
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### MainActivity.java
@@ -54,6 +56,5 @@ SeekBar seekBar;
 
 # App Highlight
 
-<img src="app_images/Media Player Assets Code.png" width="1000" /><br>
-
-<img src="app_images/Media Player Assets App.png" width="300" /><br>
+![Media Player Assets App](https://user-images.githubusercontent.com/74413402/192093057-31b37880-eeb3-4ad2-bec3-1eca0ff8cdbe.png)
+![Media Player Assets Code](https://user-images.githubusercontent.com/74413402/192093059-8cca0276-4b71-4b68-9619-8ad9b7e55547.png)
